@@ -1,4 +1,4 @@
 Ring-Buffer
 ===========
 
-ring buffer for share memory
+Ring buffer for share memory use c language.
